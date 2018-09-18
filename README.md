@@ -1,4 +1,6 @@
 # ReduxSimpleStarter-master
-To use, run
+To use, run:
+
 npm install
+
 npm start
